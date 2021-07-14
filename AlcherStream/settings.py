@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-v+lbraj6odk3r8_@r#u%!f49s4%9fa0y!22ye-h)y52)d1=^$@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['alcher-stream-django.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['alcherstream-task3.herokuapp.com','127.0.0.1']
 
 
 # Application definition
